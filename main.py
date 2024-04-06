@@ -1,31 +1,34 @@
 import simpy
 import networkx as nx
-from devices import Sensor, Actuator, Controller, generate_devices
+import random
+from devices import Sensor, Actuator, Controller, MessageBroker
 
-def sensor_process(env, sensor):
+def sensor_process(env, sensor, broker):
     while True:
-        data = f"Data from Sensor {sensor.device_id}"
-        sensor.send_data(data)
-        yield env.timeout(10)  # Sensor sends data every 10 time units
+        data = sensor.generate_data()
+        sensor.send_message(broker, (sensor.sensor_type, data), "Controller")
+        yield env.timeout(10)
 
 def main():
     env = simpy.Environment()
+    broker = MessageBroker()
 
-    # Generate a set of IoT devices
-    devices = generate_devices(num_sensors=10, num_actuators=5, num_controllers=3)
+    sensors = [Sensor(i, random.choice(['temperature', 'humidity', 'motion'])) for i in range(1, 11)]
+    actuators = [Actuator(i, random.choice(['light', 'lock', 'heater'])) for i in range(11, 16)]
+    controllers = [Controller(i, actuators, broker) for i in range(16, 19)]
 
-    # Initialize network graph and add devices to it
+    for device in sensors + actuators + controllers:
+        broker.subscribe(device, device.device_type)
+
     network = nx.Graph()
-    for device in devices:
+    for device in sensors + actuators + controllers:
         network.add_node(device.device_id, type=device.device_type)
-        # You can also add edges (connections) here based on your logic
+        # Additional logic to add edges can be placed here
 
-    # Start the sensor processes
-    for device in devices:
-        if isinstance(device, Sensor):
-            env.process(sensor_process(env, device))
+    for sensor in sensors:
+        env.process(sensor_process(env, sensor, broker))
 
-    env.run(until=100)  # Run the simulation for 100 time units
+    env.run(until=100)
 
 if __name__ == "__main__":
     main()
