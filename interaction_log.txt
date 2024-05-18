@@ -1,0 +1,270 @@
+Time: 1716016483.79, Sender: Sensor 1, Recipient: Controller 7, Message: motion,Motion detected: True
+Time: 1716016483.79, Sender: Controller 7, Recipient: Actuator 5, Message: Turn on lights
+Time: 1716016483.79, Sender: Controller 7, Recipient: Actuator 6, Message: Turn on lights
+Time: 1716016483.79, Sender: Sensor 1, Recipient: Controller 8, Message: motion,Motion detected: True
+Time: 1716016483.79, Sender: Controller 8, Recipient: Actuator 5, Message: Turn on lights
+Time: 1716016483.79, Sender: Controller 8, Recipient: Actuator 6, Message: Turn on lights
+Time: 1716016483.80, Sender: Sensor 3, Recipient: Controller 7, Message: humidity,Humidity: 47%
+Time: 1716016483.80, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.80, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.80, Sender: Sensor 3, Recipient: Controller 8, Message: humidity,Humidity: 47%
+Time: 1716016483.80, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.80, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.80, Sender: Sensor 4, Recipient: Controller 7, Message: temperature,Temperature: 16°C
+Time: 1716016483.80, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.80, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.80, Sender: Sensor 4, Recipient: Controller 8, Message: temperature,Temperature: 16°C
+Time: 1716016483.80, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.80, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.80, Sender: Sensor 5, Recipient: Controller 7, Message: motion,Motion detected: True
+Time: 1716016483.80, Sender: Controller 7, Recipient: Actuator 5, Message: Turn on lights
+Time: 1716016483.80, Sender: Controller 7, Recipient: Actuator 6, Message: Turn on lights
+Time: 1716016483.80, Sender: Sensor 5, Recipient: Controller 8, Message: motion,Motion detected: True
+Time: 1716016483.80, Sender: Controller 8, Recipient: Actuator 5, Message: Turn on lights
+Time: 1716016483.80, Sender: Controller 8, Recipient: Actuator 6, Message: Turn on lights
+Time: 1716016483.81, Sender: Sensor 1, Recipient: Controller 7, Message: motion,Motion detected: False
+Time: 1716016483.81, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.81, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.81, Sender: Sensor 1, Recipient: Controller 8, Message: motion,Motion detected: False
+Time: 1716016483.81, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.81, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.81, Sender: Sensor 3, Recipient: Controller 7, Message: humidity,Humidity: 79%
+Time: 1716016483.81, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.81, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.81, Sender: Sensor 3, Recipient: Controller 8, Message: humidity,Humidity: 79%
+Time: 1716016483.81, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.81, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.81, Sender: Sensor 4, Recipient: Controller 7, Message: temperature,Temperature: 22°C
+Time: 1716016483.81, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.81, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.81, Sender: Sensor 4, Recipient: Controller 8, Message: temperature,Temperature: 22°C
+Time: 1716016483.81, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.81, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.81, Sender: Sensor 5, Recipient: Controller 7, Message: motion,Motion detected: False
+Time: 1716016483.81, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.81, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.81, Sender: Sensor 5, Recipient: Controller 8, Message: motion,Motion detected: False
+Time: 1716016483.81, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.81, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.81, Sender: Sensor 1, Recipient: Controller 7, Message: motion,Motion detected: False
+Time: 1716016483.81, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.81, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.81, Sender: Sensor 1, Recipient: Controller 8, Message: motion,Motion detected: False
+Time: 1716016483.81, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.81, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.81, Sender: Sensor 2, Recipient: Controller 7, Message: temperature,Temperature: 17°C
+Time: 1716016483.81, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.81, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.81, Sender: Sensor 2, Recipient: Controller 8, Message: temperature,Temperature: 17°C
+Time: 1716016483.81, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.81, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.81, Sender: Sensor 3, Recipient: Controller 7, Message: humidity,Humidity: 43%
+Time: 1716016483.81, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.81, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.81, Sender: Sensor 3, Recipient: Controller 8, Message: humidity,Humidity: 43%
+Time: 1716016483.81, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.81, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.81, Sender: Sensor 4, Recipient: Controller 7, Message: temperature,Temperature: 18°C
+Time: 1716016483.81, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.81, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.81, Sender: Sensor 4, Recipient: Controller 8, Message: temperature,Temperature: 18°C
+Time: 1716016483.81, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.81, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.82, Sender: Sensor 5, Recipient: Controller 7, Message: motion,Motion detected: True
+Time: 1716016483.82, Sender: Controller 7, Recipient: Actuator 5, Message: Turn on lights
+Time: 1716016483.82, Sender: Controller 7, Recipient: Actuator 6, Message: Turn on lights
+Time: 1716016483.82, Sender: Sensor 5, Recipient: Controller 8, Message: motion,Motion detected: True
+Time: 1716016483.82, Sender: Controller 8, Recipient: Actuator 5, Message: Turn on lights
+Time: 1716016483.82, Sender: Controller 8, Recipient: Actuator 6, Message: Turn on lights
+Time: 1716016483.82, Sender: Sensor 1, Recipient: Controller 7, Message: motion,Motion detected: False
+Time: 1716016483.82, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.82, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.82, Sender: Sensor 1, Recipient: Controller 8, Message: motion,Motion detected: False
+Time: 1716016483.82, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.82, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.82, Sender: Sensor 2, Recipient: Controller 7, Message: temperature,Temperature: 24°C
+Time: 1716016483.82, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.82, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.82, Sender: Sensor 2, Recipient: Controller 8, Message: temperature,Temperature: 24°C
+Time: 1716016483.86, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.86, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.87, Sender: Sensor 3, Recipient: Controller 7, Message: humidity,Humidity: 31%
+Time: 1716016483.87, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.87, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.87, Sender: Sensor 3, Recipient: Controller 8, Message: humidity,Humidity: 31%
+Time: 1716016483.87, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.87, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.87, Sender: Sensor 4, Recipient: Controller 7, Message: temperature,Temperature: 30°C
+Time: 1716016483.87, Sender: Controller 7, Recipient: Actuator 5, Message: Turn on AC
+Time: 1716016483.87, Sender: Controller 7, Recipient: Actuator 6, Message: Turn on AC
+Time: 1716016483.87, Sender: Sensor 4, Recipient: Controller 8, Message: temperature,Temperature: 30°C
+Time: 1716016483.87, Sender: Controller 8, Recipient: Actuator 5, Message: Turn on AC
+Time: 1716016483.87, Sender: Controller 8, Recipient: Actuator 6, Message: Turn on AC
+Time: 1716016483.88, Sender: Sensor 5, Recipient: Controller 7, Message: motion,Motion detected: True
+Time: 1716016483.88, Sender: Controller 7, Recipient: Actuator 5, Message: Turn on lights
+Time: 1716016483.88, Sender: Controller 7, Recipient: Actuator 6, Message: Turn on lights
+Time: 1716016483.88, Sender: Sensor 5, Recipient: Controller 8, Message: motion,Motion detected: True
+Time: 1716016483.88, Sender: Controller 8, Recipient: Actuator 5, Message: Turn on lights
+Time: 1716016483.88, Sender: Controller 8, Recipient: Actuator 6, Message: Turn on lights
+Time: 1716016483.88, Sender: Sensor 1, Recipient: Controller 7, Message: motion,Motion detected: False
+Time: 1716016483.88, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.88, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.88, Sender: Sensor 1, Recipient: Controller 8, Message: motion,Motion detected: False
+Time: 1716016483.88, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.88, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.88, Sender: Sensor 2, Recipient: Controller 7, Message: temperature,Temperature: 18°C
+Time: 1716016483.88, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.88, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.88, Sender: Sensor 2, Recipient: Controller 8, Message: temperature,Temperature: 18°C
+Time: 1716016483.88, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.88, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.88, Sender: Sensor 3, Recipient: Controller 7, Message: humidity,Humidity: 67%
+Time: 1716016483.88, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.88, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.88, Sender: Sensor 3, Recipient: Controller 8, Message: humidity,Humidity: 67%
+Time: 1716016483.88, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.88, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.88, Sender: Sensor 4, Recipient: Controller 7, Message: temperature,Temperature: 30°C
+Time: 1716016483.88, Sender: Controller 7, Recipient: Actuator 5, Message: Turn on AC
+Time: 1716016483.88, Sender: Controller 7, Recipient: Actuator 6, Message: Turn on AC
+Time: 1716016483.88, Sender: Sensor 4, Recipient: Controller 8, Message: temperature,Temperature: 30°C
+Time: 1716016483.88, Sender: Controller 8, Recipient: Actuator 5, Message: Turn on AC
+Time: 1716016483.88, Sender: Controller 8, Recipient: Actuator 6, Message: Turn on AC
+Time: 1716016483.88, Sender: Sensor 5, Recipient: Controller 7, Message: motion,Motion detected: False
+Time: 1716016483.88, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.88, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.88, Sender: Sensor 5, Recipient: Controller 8, Message: motion,Motion detected: False
+Time: 1716016483.88, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.88, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.88, Sender: Sensor 1, Recipient: Controller 7, Message: motion,Motion detected: True
+Time: 1716016483.88, Sender: Controller 7, Recipient: Actuator 5, Message: Turn on lights
+Time: 1716016483.88, Sender: Controller 7, Recipient: Actuator 6, Message: Turn on lights
+Time: 1716016483.88, Sender: Sensor 1, Recipient: Controller 8, Message: motion,Motion detected: True
+Time: 1716016483.88, Sender: Controller 8, Recipient: Actuator 5, Message: Turn on lights
+Time: 1716016483.88, Sender: Controller 8, Recipient: Actuator 6, Message: Turn on lights
+Time: 1716016483.88, Sender: Sensor 2, Recipient: Controller 7, Message: temperature,Temperature: 20°C
+Time: 1716016483.88, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.88, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.88, Sender: Sensor 2, Recipient: Controller 8, Message: temperature,Temperature: 20°C
+Time: 1716016483.88, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.88, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.88, Sender: Sensor 3, Recipient: Controller 7, Message: humidity,Humidity: 63%
+Time: 1716016483.89, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.89, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.88, Sender: Sensor 3, Recipient: Controller 8, Message: humidity,Humidity: 63%
+Time: 1716016483.89, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.89, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.89, Sender: Sensor 4, Recipient: Controller 7, Message: temperature,Temperature: 16°C
+Time: 1716016483.89, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.89, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.89, Sender: Sensor 4, Recipient: Controller 8, Message: temperature,Temperature: 16°C
+Time: 1716016483.89, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.89, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.89, Sender: Sensor 5, Recipient: Controller 7, Message: motion,Motion detected: False
+Time: 1716016483.89, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.89, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.89, Sender: Sensor 5, Recipient: Controller 8, Message: motion,Motion detected: False
+Time: 1716016483.89, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.89, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.89, Sender: Sensor 1, Recipient: Controller 7, Message: motion,Motion detected: False
+Time: 1716016483.89, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.89, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.89, Sender: Sensor 1, Recipient: Controller 8, Message: motion,Motion detected: False
+Time: 1716016483.89, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.89, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.89, Sender: Sensor 2, Recipient: Controller 7, Message: temperature,Temperature: 19°C
+Time: 1716016483.89, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.89, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.89, Sender: Sensor 2, Recipient: Controller 8, Message: temperature,Temperature: 19°C
+Time: 1716016483.89, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.89, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.89, Sender: Sensor 3, Recipient: Controller 7, Message: humidity,Humidity: 30%
+Time: 1716016483.89, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.89, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.89, Sender: Sensor 3, Recipient: Controller 8, Message: humidity,Humidity: 30%
+Time: 1716016483.89, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.89, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.89, Sender: Sensor 4, Recipient: Controller 7, Message: temperature,Temperature: 28°C
+Time: 1716016483.89, Sender: Controller 7, Recipient: Actuator 5, Message: Turn on AC
+Time: 1716016483.89, Sender: Controller 7, Recipient: Actuator 6, Message: Turn on AC
+Time: 1716016483.89, Sender: Sensor 4, Recipient: Controller 8, Message: temperature,Temperature: 28°C
+Time: 1716016483.89, Sender: Controller 8, Recipient: Actuator 5, Message: Turn on AC
+Time: 1716016483.89, Sender: Controller 8, Recipient: Actuator 6, Message: Turn on AC
+Time: 1716016483.89, Sender: Sensor 5, Recipient: Controller 7, Message: motion,Motion detected: False
+Time: 1716016483.89, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.89, Sender: Sensor 5, Recipient: Controller 8, Message: motion,Motion detected: False
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.90, Sender: Sensor 1, Recipient: Controller 7, Message: motion,Motion detected: False
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.90, Sender: Sensor 1, Recipient: Controller 8, Message: motion,Motion detected: False
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.90, Sender: Sensor 3, Recipient: Controller 7, Message: humidity,Humidity: 48%
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.90, Sender: Sensor 3, Recipient: Controller 8, Message: humidity,Humidity: 48%
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.90, Sender: Sensor 4, Recipient: Controller 7, Message: temperature,Temperature: 27°C
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 5, Message: Turn on AC
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 6, Message: Turn on AC
+Time: 1716016483.90, Sender: Sensor 4, Recipient: Controller 8, Message: temperature,Temperature: 27°C
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 5, Message: Turn on AC
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 6, Message: Turn on AC
+Time: 1716016483.90, Sender: Sensor 5, Recipient: Controller 7, Message: motion,Motion detected: True
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 5, Message: Turn on lights
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 6, Message: Turn on lights
+Time: 1716016483.90, Sender: Sensor 5, Recipient: Controller 8, Message: motion,Motion detected: True
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 5, Message: Turn on lights
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 6, Message: Turn on lights
+Time: 1716016483.90, Sender: Sensor 1, Recipient: Controller 7, Message: motion,Motion detected: False
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.90, Sender: Sensor 1, Recipient: Controller 8, Message: motion,Motion detected: False
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.90, Sender: Sensor 3, Recipient: Controller 7, Message: humidity,Humidity: 65%
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.90, Sender: Sensor 3, Recipient: Controller 8, Message: humidity,Humidity: 65%
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.90, Sender: Sensor 4, Recipient: Controller 7, Message: temperature,Temperature: 16°C
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.90, Sender: Sensor 4, Recipient: Controller 8, Message: temperature,Temperature: 16°C
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.90, Sender: Sensor 5, Recipient: Controller 7, Message: motion,Motion detected: True
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 5, Message: Turn on lights
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 6, Message: Turn on lights
+Time: 1716016483.90, Sender: Sensor 5, Recipient: Controller 8, Message: motion,Motion detected: True
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 5, Message: Turn on lights
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 6, Message: Turn on lights
+Time: 1716016483.90, Sender: Sensor 1, Recipient: Controller 7, Message: motion,Motion detected: True
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 5, Message: Turn on lights
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 6, Message: Turn on lights
+Time: 1716016483.90, Sender: Sensor 1, Recipient: Controller 8, Message: motion,Motion detected: True
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 5, Message: Turn on lights
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 6, Message: Turn on lights
+Time: 1716016483.90, Sender: Sensor 3, Recipient: Controller 7, Message: humidity,Humidity: 40%
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.90, Sender: Sensor 3, Recipient: Controller 8, Message: humidity,Humidity: 40%
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.90, Sender: Sensor 4, Recipient: Controller 7, Message: temperature,Temperature: 20°C
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.90, Sender: Sensor 4, Recipient: Controller 8, Message: temperature,Temperature: 20°C
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 6, Message: No action
+Time: 1716016483.90, Sender: Sensor 5, Recipient: Controller 7, Message: motion,Motion detected: False
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 5, Message: No action
+Time: 1716016483.90, Sender: Controller 7, Recipient: Actuator 6, Message: No action
+Time: 1716016483.90, Sender: Sensor 5, Recipient: Controller 8, Message: motion,Motion detected: False
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 5, Message: No action
+Time: 1716016483.90, Sender: Controller 8, Recipient: Actuator 6, Message: No action
